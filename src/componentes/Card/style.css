@@ -1,0 +1,38 @@
+.card{
+    width: 230px;
+    height: 300px;
+    background-color: rgb(6, 90, 139);
+    background-image: url(../../assets/card.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 10px black inset;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid gold;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nome{
+    color: gold;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.campeao {
+    width: 80%;
+    height: 140px;
+    border-radius: 15px;
+    border: 1px solid gold;
+    box-shadow: 0px 0px 5px 1px gold;
+}
+
+.tipo{
+    font-size: 18px;
+    color: gold;
+    margin-top: 10px;
+}
