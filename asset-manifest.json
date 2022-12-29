@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.42558289.css",
-    "main.js": "/static/js/main.a802362c.js",
-    "static/js/787.f4cd1d09.chunk.js": "/static/js/787.f4cd1d09.chunk.js",
-    "static/media/banner.png": "/static/media/banner.82127146c8a0c974ee31.png",
-    "static/media/fundo.jpg": "/static/media/fundo.6458cf1b52d2364a5112.jpg",
-    "static/media/veigar.jpg": "/static/media/veigar.58b644ad585b72f01740.jpg",
-    "static/media/soraka.jpg": "/static/media/soraka.d280f7a818ea82a25bb9.jpg",
-    "static/media/jinx.jpg": "/static/media/jinx.7ddffeddfb5bcf276157.jpg",
-    "static/media/ammu.jpg": "/static/media/ammu.1a5c8133aafa70309a47.jpg",
-    "static/media/lux.jpg": "/static/media/lux.abd2d5f8b3074ce9711e.jpg",
-    "static/media/akali.jpg": "/static/media/akali.bf05a0162c98dc4e07e2.jpg",
-    "static/media/garen.jpg": "/static/media/garen.277ba51655983121f28c.jpg",
-    "static/media/tristana.jpg": "/static/media/tristana.dc0f334e65242eaa463d.jpg",
-    "index.html": "/index.html",
-    "main.42558289.css.map": "/static/css/main.42558289.css.map",
-    "main.a802362c.js.map": "/static/js/main.a802362c.js.map",
-    "787.f4cd1d09.chunk.js.map": "/static/js/787.f4cd1d09.chunk.js.map"
+    "main.css": "/card-lol/static/css/main.74123373.css",
+    "main.js": "/card-lol/static/js/main.041b977a.js",
+    "static/js/787.f4cd1d09.chunk.js": "/card-lol/static/js/787.f4cd1d09.chunk.js",
+    "static/media/banner.png": "/card-lol/static/media/banner.82127146c8a0c974ee31.png",
+    "static/media/fundo.jpg": "/card-lol/static/media/fundo.6458cf1b52d2364a5112.jpg",
+    "static/media/veigar.jpg": "/card-lol/static/media/veigar.58b644ad585b72f01740.jpg",
+    "static/media/soraka.jpg": "/card-lol/static/media/soraka.d280f7a818ea82a25bb9.jpg",
+    "static/media/jinx.jpg": "/card-lol/static/media/jinx.7ddffeddfb5bcf276157.jpg",
+    "static/media/ammu.jpg": "/card-lol/static/media/ammu.1a5c8133aafa70309a47.jpg",
+    "static/media/lux.jpg": "/card-lol/static/media/lux.abd2d5f8b3074ce9711e.jpg",
+    "static/media/akali.jpg": "/card-lol/static/media/akali.bf05a0162c98dc4e07e2.jpg",
+    "static/media/garen.jpg": "/card-lol/static/media/garen.277ba51655983121f28c.jpg",
+    "static/media/tristana.jpg": "/card-lol/static/media/tristana.dc0f334e65242eaa463d.jpg",
+    "index.html": "/card-lol/index.html",
+    "main.74123373.css.map": "/card-lol/static/css/main.74123373.css.map",
+    "main.041b977a.js.map": "/card-lol/static/js/main.041b977a.js.map",
+    "787.f4cd1d09.chunk.js.map": "/card-lol/static/js/787.f4cd1d09.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42558289.css",
-    "static/js/main.a802362c.js"
+    "static/css/main.74123373.css",
+    "static/js/main.041b977a.js"
   ]
 }
